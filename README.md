@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryansh-singh-15ba41192/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suryansh_tweets) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-singh-15ba41192/) [![Leetcode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://leetcode.com/u/Suryansh28/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suryansh_tweets) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suryansh282&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
